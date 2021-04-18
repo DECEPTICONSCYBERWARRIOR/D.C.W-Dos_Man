@@ -18,7 +18,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### chmod +x D.C.W-Dos_Man.py
 
-### python D.C.W-Dos_Man.py
+### python2 D.C.W-Dos_Man.py
 
 
 
